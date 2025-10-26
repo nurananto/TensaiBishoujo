@@ -1,0 +1,16 @@
+{
+  "chapters": [
+    {
+      "title": "Chapter 3",
+      "locked": true
+    },
+    {
+      "title": "Chapter 2",
+      "locked": false
+    },
+    {
+      "title": "Chapter 1",
+      "locked": false
+    }
+  ]
+}
