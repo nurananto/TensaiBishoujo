@@ -31,7 +31,7 @@
       "title": "Chapter 1",
       "chapter": 1.0,
       "folder": "1",
-      "uploadDate": "2025-09-28",
+      "uploadDate": "2025-10-26",
       "totalPages": 34,
       "pages": 34,
       "locked": false,
@@ -41,7 +41,7 @@
       "title": "Chapter 2",
       "chapter": 2.0,
       "folder": "2",
-      "uploadDate": "2025-09-28",
+      "uploadDate": "2025-10-26",
       "totalPages": 34,
       "pages": 34,
       "locked": false,
@@ -52,10 +52,10 @@
       "folder": "3",
       "pages": 0,
       "views": 0,
-      "uploadDate": "2025-09-28",
+      "uploadDate": "2025-10-26",
       "locked": true
     }
   },
-  "lastChapterUpdate": "2025-09-28",
-  "lastUpdated": "2025-10-29T01:03:18.838237Z"
+  "lastChapterUpdate": "2025-10-26",
+  "lastUpdated": "2025-10-30T01:03:05.760602Z"
 }
