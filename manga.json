@@ -30,8 +30,8 @@
       "chapter": 1,
       "folder": "1",
       "uploadDate": "2025-10-16T04:36:16+07:00",
-      "totalPages": 42,
-      "pages": 42,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 53
     },
@@ -40,8 +40,8 @@
       "chapter": 2,
       "folder": "2",
       "uploadDate": "2025-10-16T04:36:16+07:00",
-      "totalPages": 34,
-      "pages": 34,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 45
     },
@@ -50,12 +50,12 @@
       "chapter": 3,
       "folder": "3",
       "uploadDate": "2025-11-14T19:33:26+07:00",
-      "totalPages": 28,
-      "pages": 28,
+      "totalPages": 0,
+      "pages": 0,
       "locked": false,
       "views": 60
     }
   },
-  "lastUpdated": "2025-11-26T09:16:24+07:00",
+  "lastUpdated": "2025-11-27T00:11:25+07:00",
   "lastChapterUpdate": "2025-11-14T19:33:26+07:00"
 }
