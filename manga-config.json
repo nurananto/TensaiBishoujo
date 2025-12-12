@@ -1,4 +1,5 @@
 {
+  "type": "manga",
   "title": "Tensai Bishoujo Sanshimai wa Isourou ni Dake Choro Kawaii",
   "alternativeTitle": "天才美少女三姉妹がちょろ可愛すぎる!?",
   "cover": "https://cdn.nuranantoscans.my.id/covers/tensai-3964fb0f-aa43-492f-a693-a83b70e35371.webp",
@@ -12,7 +13,8 @@
     "School Life",
     "Slice of Life"
   ],
-  "status": "Ongoing",
+  "status": "ONGOING",
+  "endChapter": null,
   "views": 0,
   "links": {
     "mangadex": "https://mangadex.org/title/ee1eb629-79c9-410f-927c-dd7a4cd1d87b/tensai-bishoujo-sanshimai-wa-isourou-ni-dake-choro-kawaii",
