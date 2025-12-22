@@ -14,7 +14,7 @@
       "Slice of Life"
     ],
     "status": "ONGOING",
-    "views": 276,
+    "views": 281,
     "links": {
       "mangadex": "https://mangadex.org/title/ee1eb629-79c9-410f-927c-dd7a4cd1d87b/tensai-bishoujo-sanshimai-wa-isourou-ni-dake-choro-kawaii",
       "raw": "https://comic-walker.com/detail/KC_006969_S"
@@ -34,7 +34,7 @@
       "totalPages": 42,
       "pages": 42,
       "locked": false,
-      "views": 99
+      "views": 101
     },
     "2": {
       "title": "Chapter 2",
@@ -44,7 +44,7 @@
       "totalPages": 34,
       "pages": 34,
       "locked": false,
-      "views": 52
+      "views": 54
     },
     "3": {
       "title": "Chapter 3",
@@ -54,9 +54,9 @@
       "totalPages": 28,
       "pages": 28,
       "locked": false,
-      "views": 92
+      "views": 93
     }
   },
-  "lastUpdated": "2025-12-22T00:09:56+07:00",
+  "lastUpdated": "2025-12-23T00:11:43+07:00",
   "lastChapterUpdate": "2025-11-27T23:10:02+07:00"
 }
