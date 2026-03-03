@@ -13,9 +13,7 @@
 | Author | Akizuki Tsukihi |
 | Artist | Shio Kazunoko, Akizuki Tsukihi |
 | Tipe | Manga (Hitam Putih) |
-| Status | Hiatus |
 | Genre | Shounen · Comedy · Romance · School Life · Slice of Life |
-| Chapter | 3 chapter |
 
 ## Link
 
